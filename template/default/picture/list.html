@@ -1,0 +1,53 @@
+{include file="public/header" /}
+{include file="public/breadcrumb" /}
+<!-- 图片列表开始 -->
+<div class="main index_main">
+	<div class="page_left">
+		<ul class="picture_list_container">
+			{volist name="lists" id="vo"}
+			<li class="trans_3">
+				<a href="{$vo['url']}" class="pic">
+				<div class="fade"><span class="zhezhaocontent">
+					<?php echo mb_substr($vo['description'],1,60,'utf-8')."...";?></span></div><img class="lazy" data-original="{$vo['image_url']|thumb=330,220,1}" src="__JASON__/static/images/pic_loading_bg.png"></a>
+				<h2 class="title"><a href="{$vo['url']}">{if $vo['is_top']==1}<span class="top">置顶</span>{/if}<?php echo mb_substr($vo['title'],0,14,'UTF-8')."...";?></a></h2>
+				<div class="date_hits">
+					<p class="date"><span style="margin-left: 0px;"><i class="fa fa-clock-o" aria-hidden="true"></i> {$vo['create_time']|format_datetime}</span>&nbsp;<span class="hits" style="margin-left: 50%;"><i class="layui-icon" title="点击量">&#xe62c;</i> {$vo['hits']}℃</span></p>
+				</div>
+			</li>
+			{/volist}
+		</ul>
+	</div>
+	<div class="page_right">
+		<div class="second_categorys_container">
+			<h3><i class="fa fa-list" aria-hidden="true" style="color:gray;"></i> 栏目导航</h3>
+			<ol class="seond_category trans_3">
+				{volist name="second_categorys" id="vo"}
+				<li {if $Request.param.category_id==$vo['id']}class="selected"{/if}><a href="{$vo['url']}" class="layui-btn layui-btn-primary trans_1">{$vo['name']}</a></li>
+				{/volist}
+			</ol>
+		</div>
+		{notempty name="recommend_list"}
+		<div class="recommend_list">
+			<h3><i class="fa fa-star-half-o" aria-hidden="true" style="color:gold"></i> 推荐文章</h3>
+			<ol class="page_right_list trans_3">
+				{volist name="recommend_list" id="vo"}
+				<li><a href="{$vo['url']}">{$vo['title']}</a><span class="hits"> {$vo['hits']} ℃ </span></li>
+				{/volist}
+			</ol>
+		</div>
+		{/notempty}
+		{notempty name="hot_list"}
+		<div class="hot_list">
+			<h3><i class="fa fa-fire fa-1x" aria-hidden="true" style="color:red;"></i> 最近热文</h3>
+			<ol class="page_right_list trans_3">
+				{volist name="hot_list" id="vo"}
+				<li><a href="{$vo['url']}">{$vo['title']}</a><span class="hits"> {$vo['hits']} ℃ </span></li>
+				{/volist}
+			</ol>
+		</div>
+		{/notempty}
+	</div>
+	<div id="page" style="min-height: 10px;">{$page}</div>
+</div>
+<!-- 图片列表结束 -->
+{include file="public/footer" /}

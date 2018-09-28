@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title id="title" title="{$seo['title']}">{$seo['title']}</title>
+	<meta name="keywords" content="{$seo['keywords']}">
+	<meta name="description" content="{$seo['description']}">
+	<meta name="renderer" content="webkit">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="baidu-site-verification" content="AxkUy98NH3" />
+	<meta name="baidu-site-verification" content="FvkTaYT6be" />
+	<meta name="360-site-verification" content="b255c71ea0af038d3577f05ab2b9e7ea" />
+	<meta name="viewport" content="width=device-width, height=device-height, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+	{$settings['head_html']}
+	<link rel="stylesheet" type="text/css" href="__JASON__/static/layui/css/layui.css">
+	<link rel="stylesheet" href="__JASON__/static/css/calender.css?v=<?php echo time();?>">
+	<link rel="stylesheet" type="text/css" href="__JASON__/static/css/style.css?v=<?php echo time();?>">
+	<link href="https://cdn.bootcss.com/limonte-sweetalert2/7.21.1/sweetalert2.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://at.alicdn.com/t/font_234130_nem7eskcrkpdgqfr.css">
+	<!-- <link rel="stylesheet" href="__JASON__/static/css/skplayer.css?v=<?php echo time();?>"> -->
+	<script src="https://use.fontawesome.com/e4bec7758e.js"></script>
+	<script src="__JASON__/static/js/jquery.min.js"></script>
+	<script src="__JASON__/static/js/jquery.lazyload.min.js?v=1.9.1"></script>
+	<script type="text/javascript" src="__JASON__/static/layui/layui.js"></script>
+	<!-- <script type="text/javascript" src="__JASON__/static/js/skplayer.min.js"></script> -->
+	<script type="text/javascript" src="__JASON__/static/js/calendar.js?v=<?php echo time();?>"></script>
+	{$settings['site_statistice']}
+	<!--SyntaxHighlighter的基本脚本-->
+    <link href="/static/ueditor/third-party/SyntaxHighlighter/shCoreDefault.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="/static/ueditor/syntaxhighlighter/scripts/shCore.js"></script>
+	<!--SyntaxHighlighter的对各个编程语言解析的脚本-->
+	<script type="text/javascript" src="/static/ueditor/syntaxhighlighter/scripts/shBrushJScript.js"></script>
+	<script type="text/javascript" src="/static/ueditor/syntaxhighlighter/scripts/shBrushPhp.js"></script>
+	<script type="text/javascript" src="/static/ueditor/syntaxhighlighter/scripts/shBrushJava.js"></script>
+	<script type="text/javascript" src="/static/ueditor/syntaxhighlighter/scripts/shBrushPython.js"></script>
+	<script type="text/javascript" src="/static/ueditor/syntaxhighlighter/scripts/shBrushSql.js"></script>
+	<!--所使用的SyntaxHighlighter样式-->
+	<link type="text/css" rel="stylesheet" href="/static/ueditor/syntaxhighlighter/styles/shCoreEclipse.css"/>
+	<!--初始化SyntaxHighlighter的必须代码，必须放在head中，引入文件之后-->
+	<script type="text/javascript">SyntaxHighlighter.all();</script>
+	<!--用于消除右上角的广告-->
+	<script type="text/javascript">SyntaxHighlighter.defaults['toolbar'] = false;</script>
+	<script src="https://cdn.bootcss.com/limonte-sweetalert2/7.21.1/sweetalert2.all.js"></script>
+	<script>
+		document.addEventListener('visibilitychange',function(){ //浏览器切换事件
+    		if(document.visibilityState=='hidden') { //状态判断
+        		//normal_title=document.title;
+        			document.title = '哎呦，你又去哪里浪了，回来啊！！'; 
+    		}else {
+        			document.title = $("#title").attr("title");
+    		}
+		});
+	</script>
+	<script>(function(){var src = (document.location.protocol == "http:") ? "http://js.passport.qihucdn.com/11.0.1.js?ba7cb826604b61e2d46f71d918f1a449":"https://jspassport.ssl.qhimg.com/11.0.1.js?ba7cb826604b61e2d46f71d918f1a449";document.write('<script src="' + src + '" id="sozz"><\/script>');})();</script>
+</head>
+<body>
+<!-- 头部 开始 -->
+<div class="layui-header header trans_3">
+<div class="main index_main">
+	<a class="logo" href="/"><img class="layui-anim layui-anim-scale" src="{if $settings.logo}{$settings.logo}{else}__JASON__/static/images/logo-header.png{/if}" alt="{$seo['title']}"></a>
+
+	<ul class="layui-nav" lay-filter="top_nav">
+	  	<li class="layui-nav-item home" class="layui-anim layui-anim-upbit"><a href="/">首页</a></li>
+	  	{volist name="categorys[0][0]" id="vo"}
+	  	{if condition="$categorys[$vo]['is_menu'] == 1"}
+	  	<li class="layui-nav-item">
+	  		<a href="{$categorys[$vo]['url']}" class="layui-anim layui-anim-upbit">{$categorys[$vo]['name']}</a>
+	  		{notempty name="categorys[0][$vo]"}
+			<dl class="layui-nav-child"> <!-- 二级菜单 -->
+				{volist name="categorys[0][$vo]" id="v"}
+				{if condition="$categorys[$v]['is_menu'] == 1"}
+		      	<dd><a href="{$categorys[$v]['url']}">{$categorys[$v]['name']}</a></dd>
+		      	{/if}
+		    	{/volist}
+		    </dl>
+			{/notempty}
+	  	</li>
+	  	{/if}
+	  	{/volist}
+	</ul>
+	<div class="title">{$settings.site_name}</div>
+	<form action="{:url('index/search/search')}" mothod="post" class="head_search trans_3 layui-form">
+	  <div class="layui-form-item trans_3">
+	  	<span class="close trans_3"><i class="layui-icon">&#x1006;</i> </span>
+	    <div class="layui-input-inline trans_3">
+	      <select name="model_id">
+	      {volist name="search_model_select" id="vo"}
+	      	<option value="{$vo['id']}" {if condition="$vo['id'] == 2"}selected{/if}>{$vo['name']}</option>
+	      {/volist}
+	      </select>
+	    </div>
+	    <input type="text" name="keywords" placeholder="搜索" autocomplete="off" class="search_input trans_3">
+	    <button class="layui-btn" lay-submit="" style="display: none;"></button>
+	  </div>
+		
+	</form>
+</div>
+</div>
+<div class="header_back"></div>
+<!-- 头部 结束 -->
+<!-- 左边导航 开始 -->
+<div class="layui-side layui-bg-black left_nav trans_2">
+  <div class="layui-side-scroll">
+	<ul class="layui-nav layui-nav-tree"  lay-filter="left_nav">
+		<li class="layui-nav-item home"><a href="/">首页</a></li>
+	  	{volist name="categorys[0][0]" id="vo" }
+	  	{if condition="$categorys[$vo]['is_menu'] == 1"}
+	  	<li class="layui-nav-item">
+	  		{notempty name="categorys[0][$vo]"}
+	  		<a href="javascript:void();">{$categorys[$vo]['name']}</a>
+			<dl class="layui-nav-child"> <!-- 二级菜单 -->
+				{volist name="categorys[0][$vo]" id="v"}
+				{if condition="$categorys[$v]['is_menu'] == 1"}
+		      	<dd><a href="{$categorys[$v]['url']}">{$categorys[$v]['name']}</a></dd>
+		      	{/if}
+		    	{/volist}
+		    </dl>
+		    {else /}
+		    <a href="{$categorys[$vo]['url']}">{$categorys[$vo]['name']}</a>
+			{/notempty}
+	  	</li>
+	  	{/if}
+	  	{/volist}
+	</ul>
+  </div>
+</div>
+<div class="left_nav_mask"></div>
+<div class="left_nav_btn"><i class="layui-icon">&#xe602;</i></div>
+<!-- 左边导航 结束 -->

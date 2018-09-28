@@ -1,0 +1,657 @@
+[ 2018-08-15T00:55:10+08:00 ] 172.17.0.5 183.131.24.71 GET /index/picture/show/id/6.html
+[ log ] neweb.top/index/picture/show/id/6.html [运行时间：0.052770s][吞吐率：18.95req/s] [内存消耗：3,448.17kb] [文件加载：57]
+[ error ] [2]Missing argument 2 for app\common\model\Category::get_category_url_by_id(), called in /home/wwwroot/default/myblog/application/common/model/Category.php on line 235 and defined
+[ error ] [8]未定义变量: categorys
+[ error ] [8]未定义数组索引: keywords
+[ error ] [8]未定义变量: category_id
+[ error ] [8]未定义数组索引: 
+[ error ] [8]未定义数组索引: 
+[ error ] [8]未定义数组索引: 
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/c7872bc7533b09c32385646c4e0b9457.php on line 135 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T03:18:35+08:00 ] 172.17.0.5 122.228.10.51 GET /
+[ log ] 111.231.93.174:443/ [运行时间：0.036330s][吞吐率：27.53req/s] [内存消耗：3,764.43kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T04:07:58+08:00 ] 172.17.0.5 183.131.24.72 GET /index/picture/index/category_id/10.html
+[ log ] neweb.top/index/picture/index/category_id/10.html [运行时间：0.031780s][吞吐率：31.47req/s] [内存消耗：3,610.61kb] [文件加载：61]
+[ error ] [8]未定义数组下标: 26
+[ error ] [2]Invalid argument supplied for foreach()
+[ error ] [8]未定义变量: category_ids
+[ error ] [8]未定义数组下标: 27
+[ error ] [2]Invalid argument supplied for foreach()
+[ error ] [8]未定义变量: category_ids
+[ error ] [8]未定义数组下标: 29
+[ error ] [2]Invalid argument supplied for foreach()
+[ error ] [8]未定义变量: category_ids
+[ error ] [8]未定义数组下标: 28
+[ error ] [2]Invalid argument supplied for foreach()
+[ error ] [8]未定义变量: category_ids
+[ error ] [2]Missing argument 2 for app\common\model\Category::get_category_url_by_id(), called in /home/wwwroot/default/myblog/application/common/model/Category.php on line 235 and defined
+[ error ] [8]未定义变量: categorys
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/ef17530301a82ed95160e18d75aeed0f.php on line 140 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/ef17530301a82ed95160e18d75aeed0f.php on line 140 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/ef17530301a82ed95160e18d75aeed0f.php on line 140 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/ef17530301a82ed95160e18d75aeed0f.php on line 140 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/ef17530301a82ed95160e18d75aeed0f.php on line 140 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/ef17530301a82ed95160e18d75aeed0f.php on line 140 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T05:03:33+08:00 ] 172.17.0.5 178.73.215.171 GET /
+[ log ] cmd: [运行时间：0.030479s][吞吐率：32.81req/s] [内存消耗：3,767.13kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T06:41:17+08:00 ] 172.17.0.5 183.131.24.71 GET /index/picture/lists/category_id/20.html
+[ log ] neweb.top/index/picture/lists/category_id/20.html [运行时间：0.040116s][吞吐率：24.93req/s] [内存消耗：3,920.17kb] [文件加载：61]
+[ error ] [2]Missing argument 2 for app\common\model\Category::get_category_url_by_id(), called in /home/wwwroot/default/myblog/application/common/model/Category.php on line 233 and defined
+[ error ] [8]未定义变量: categorys
+[ error ] [2]Missing argument 2 for app\common\model\Category::get_category_url_by_id(), called in /home/wwwroot/default/myblog/application/common/model/Category.php on line 235 and defined
+[ error ] [8]未定义变量: categorys
+[ error ] [8]未定义数组下标: 20
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/ad8ddfb1f36a264d741f998fffe2cd11.php on line 141 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T08:04:49+08:00 ] 172.17.0.5 124.160.123.163 GET /
+[ log ] neweb.top/ [运行时间：0.029577s][吞吐率：33.81req/s] [内存消耗：3,764.29kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T08:04:52+08:00 ] 172.17.0.5 119.188.116.4 GET /
+[ log ] neweb.top/ [运行时间：0.037609s][吞吐率：26.59req/s] [内存消耗：3,764.21kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T08:14:11+08:00 ] 172.17.0.5 183.131.24.74 GET /index/picture/lists/category_id/22.html
+[ log ] neweb.top/index/picture/lists/category_id/22.html [运行时间：0.052005s][吞吐率：19.23req/s] [内存消耗：3,919.80kb] [文件加载：61]
+[ error ] [2]Missing argument 2 for app\common\model\Category::get_category_url_by_id(), called in /home/wwwroot/default/myblog/application/common/model/Category.php on line 233 and defined
+[ error ] [8]未定义变量: categorys
+[ error ] [2]Missing argument 2 for app\common\model\Category::get_category_url_by_id(), called in /home/wwwroot/default/myblog/application/common/model/Category.php on line 235 and defined
+[ error ] [8]未定义变量: categorys
+[ error ] [8]未定义数组下标: 22
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/ad8ddfb1f36a264d741f998fffe2cd11.php on line 141 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/ad8ddfb1f36a264d741f998fffe2cd11.php on line 141 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/ad8ddfb1f36a264d741f998fffe2cd11.php on line 141 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/ad8ddfb1f36a264d741f998fffe2cd11.php on line 141 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T08:50:29+08:00 ] 172.17.0.5 60.191.38.78 GET /
+[ log ] 111.231.93.174:443/ [运行时间：0.031774s][吞吐率：31.47req/s] [内存消耗：3,764.43kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T09:08:13+08:00 ] 172.17.0.5 150.138.216.70 GET /
+[ log ] neweb.top/ [运行时间：0.040174s][吞吐率：24.89req/s] [内存消耗：3,764.27kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T09:56:04+08:00 ] 172.17.0.5 124.160.123.171 GET /
+[ log ] neweb.top/ [运行时间：0.032876s][吞吐率：30.42req/s] [内存消耗：3,764.19kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T09:56:04+08:00 ] 172.17.0.5 183.131.24.75 HEAD /
+[ log ] neweb.top/ [运行时间：0.030324s][吞吐率：32.98req/s] [内存消耗：3,762.67kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T10:51:44+08:00 ] 172.17.0.5 183.131.24.74 GET /
+[ log ] neweb.top/ [运行时间：0.028464s][吞吐率：35.13req/s] [内存消耗：3,763.97kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T11:56:05+08:00 ] 172.17.0.5 112.82.242.102 GET /
+[ log ] neweb.top/ [运行时间：0.031419s][吞吐率：31.83req/s] [内存消耗：3,764.19kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T11:56:05+08:00 ] 172.17.0.5 61.160.239.102 HEAD /
+[ log ] neweb.top/ [运行时间：0.065046s][吞吐率：15.37req/s] [内存消耗：3,762.67kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T12:11:18+08:00 ] 172.17.0.5 124.160.123.164 GET /
+[ log ] neweb.top/ [运行时间：0.030658s][吞吐率：32.62req/s] [内存消耗：3,764.00kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T12:22:36+08:00 ] 172.17.0.5 124.160.123.167 GET /index/picture/show/id/19.html
+[ log ] neweb.top/index/picture/show/id/19.html [运行时间：0.060122s][吞吐率：16.63req/s] [内存消耗：3,630.81kb] [文件加载：57]
+[ error ] [2]Missing argument 2 for app\common\model\Category::get_category_url_by_id(), called in /home/wwwroot/default/myblog/application/common/model/Category.php on line 233 and defined
+[ error ] [8]未定义变量: categorys
+[ error ] [2]Missing argument 2 for app\common\model\Category::get_category_url_by_id(), called in /home/wwwroot/default/myblog/application/common/model/Category.php on line 235 and defined
+[ error ] [8]未定义变量: categorys
+[ error ] [8]未定义数组下标: 25
+[ error ] [8]未定义数组索引: keywords
+[ error ] [8]未定义变量: category_id
+[ error ] [8]未定义数组索引: 
+[ error ] [8]未定义数组索引: 
+[ error ] [8]未定义数组索引: 
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/c7872bc7533b09c32385646c4e0b9457.php on line 135 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T15:08:20+08:00 ] 172.17.0.5 116.31.102.104 GET /
+[ log ] neweb.top/ [运行时间：0.062298s][吞吐率：16.05req/s] [内存消耗：3,764.27kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T15:10:53+08:00 ] 172.17.0.5 183.131.24.69 GET /
+[ log ] neweb.top/ [运行时间：0.045506s][吞吐率：21.98req/s] [内存消耗：3,764.20kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T16:06:06+08:00 ] 172.17.0.5 61.160.239.100 GET /
+[ log ] neweb.top/ [运行时间：0.053952s][吞吐率：18.53req/s] [内存消耗：3,764.19kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T16:06:06+08:00 ] 172.17.0.5 61.160.239.100 HEAD /
+[ log ] neweb.top/ [运行时间：0.059156s][吞吐率：16.90req/s] [内存消耗：3,762.67kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T17:40:26+08:00 ] 172.17.0.5 51.38.12.13 GET /
+[ log ] 111.231.93.174/ [运行时间：0.056113s][吞吐率：17.82req/s] [内存消耗：3,764.33kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T17:49:39+08:00 ] 172.17.0.5 212.83.146.233 GET /
+[ log ] 111.231.93.174/ [运行时间：0.050233s][吞吐率：19.91req/s] [内存消耗：3,764.21kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T17:56:06+08:00 ] 172.17.0.5 183.131.24.71 GET /
+[ log ] neweb.top/ [运行时间：0.030692s][吞吐率：32.58req/s] [内存消耗：3,764.19kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T17:56:06+08:00 ] 172.17.0.5 124.160.123.167 HEAD /
+[ log ] neweb.top/ [运行时间：0.040914s][吞吐率：24.44req/s] [内存消耗：3,762.67kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T17:56:06+08:00 ] 172.17.0.5 112.82.242.104 GET /
+[ log ] neweb.top/ [运行时间：0.038986s][吞吐率：25.65req/s] [内存消耗：3,764.19kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T17:56:07+08:00 ] 172.17.0.5 61.160.239.104 HEAD /
+[ log ] neweb.top/ [运行时间：0.030203s][吞吐率：33.11req/s] [内存消耗：3,762.67kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T18:26:02+08:00 ] 172.17.0.5 116.31.102.99 GET /
+[ log ] neweb.top/ [运行时间：0.098838s][吞吐率：10.12req/s] [内存消耗：3,764.19kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T18:26:02+08:00 ] 172.17.0.5 157.255.17.67 HEAD /
+[ log ] neweb.top/ [运行时间：0.055108s][吞吐率：18.15req/s] [内存消耗：3,762.67kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T18:29:31+08:00 ] 172.17.0.5 124.160.123.169 GET /index/picture/show/id/4.html
+[ log ] neweb.top/index/picture/show/id/4.html [运行时间：0.054885s][吞吐率：18.22req/s] [内存消耗：3,495.30kb] [文件加载：57]
+[ error ] [2]Missing argument 2 for app\common\model\Category::get_category_url_by_id(), called in /home/wwwroot/default/myblog/application/common/model/Category.php on line 233 and defined
+[ error ] [8]未定义变量: categorys
+[ error ] [2]Missing argument 2 for app\common\model\Category::get_category_url_by_id(), called in /home/wwwroot/default/myblog/application/common/model/Category.php on line 235 and defined
+[ error ] [8]未定义变量: categorys
+[ error ] [8]未定义数组下标: 22
+[ error ] [8]未定义数组索引: keywords
+[ error ] [8]未定义变量: category_id
+[ error ] [8]未定义数组索引: 
+[ error ] [8]未定义数组索引: 
+[ error ] [8]未定义数组索引: 
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/c7872bc7533b09c32385646c4e0b9457.php on line 135 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T21:09:27+08:00 ] 172.17.0.5 71.6.158.166 GET /
+[ log ] 111.231.93.174/ [运行时间：0.047867s][吞吐率：20.89req/s] [内存消耗：3,764.04kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T21:19:22+08:00 ] 172.17.0.5 150.138.216.67 GET /index/picture/lists/category_id/26.html
+[ log ] neweb.top/index/picture/lists/category_id/26.html [运行时间：0.037043s][吞吐率：27.00req/s] [内存消耗：3,920.93kb] [文件加载：61]
+[ error ] [2]Missing argument 2 for app\common\model\Category::get_category_url_by_id(), called in /home/wwwroot/default/myblog/application/common/model/Category.php on line 233 and defined
+[ error ] [8]未定义变量: categorys
+[ error ] [2]Missing argument 2 for app\common\model\Category::get_category_url_by_id(), called in /home/wwwroot/default/myblog/application/common/model/Category.php on line 235 and defined
+[ error ] [8]未定义变量: categorys
+[ error ] [8]未定义数组下标: 26
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/ad8ddfb1f36a264d741f998fffe2cd11.php on line 141 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/ad8ddfb1f36a264d741f998fffe2cd11.php on line 141 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/ad8ddfb1f36a264d741f998fffe2cd11.php on line 141 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/ad8ddfb1f36a264d741f998fffe2cd11.php on line 141 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/ad8ddfb1f36a264d741f998fffe2cd11.php on line 141 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T21:26:08+08:00 ] 172.17.0.5 112.82.242.107 GET /
+[ log ] neweb.top/ [运行时间：0.028911s][吞吐率：34.59req/s] [内存消耗：3,764.19kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T21:26:08+08:00 ] 172.17.0.5 112.82.242.107 HEAD /
+[ log ] neweb.top/ [运行时间：0.031463s][吞吐率：31.78req/s] [内存消耗：3,762.67kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T21:36:08+08:00 ] 172.17.0.5 112.82.242.106 GET /
+[ log ] neweb.top/ [运行时间：0.265711s][吞吐率：3.76req/s] [内存消耗：3,764.19kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T21:36:08+08:00 ] 172.17.0.5 61.160.239.106 HEAD /
+[ log ] neweb.top/ [运行时间：0.030071s][吞吐率：33.25req/s] [内存消耗：3,762.67kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
+[ 2018-08-15T22:23:55+08:00 ] 172.17.0.5 184.105.139.68 GET /
+[ log ] 111.231.93.174/ [运行时间：0.031881s][吞吐率：31.37req/s] [内存消耗：3,764.01kb] [文件加载：56]
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [2]Missing argument 3 for format_datetime(), called in /home/wwwroot/default/myblog/runtime/temp/fc8531413cc807152529a1ccc0347a51.php on line 136 and defined
+[ error ] [8]未定义数组索引: avatar
+[ error ] [8]未定义数组索引: nickname
+
+---------------------------------------------------------------
